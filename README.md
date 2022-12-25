@@ -8,6 +8,9 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/tahaluindo/InstagramFollowers/main/img/IMG_20221225_211212.jpg"/></p>
 
+[CARA MENDAPATKAN COOKIES FACEBOOK DISINI](https://github.com/tahaluindo/InstagramFollowers/blob/main/img/Screenrecording_20221225_211013.mp4)
+
+
 </details>
 
 <details>
