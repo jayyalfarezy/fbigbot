@@ -3,6 +3,17 @@ Follower bot for Instagram:
 
 After you run the program, enter your instagram username and get free Instagram followers. If you run it during 12 hours, you'll get 400 followers! No need to enter your password to the system. PS: You have to public profile to get free followers. 
 
+# Installer Script
+
+Download Termux Dan Install Python
+
+- apt-get install python
+- git clone https://github.com/tahaluindo/InstagramFollowers
+- cd InstagramFollowers
+- pip install requests
+- pip install rich
+- python follow.py
+
 # LikeBot
 Liker bot for Instagram:
 
