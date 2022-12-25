@@ -1,6 +1,15 @@
+<p align="center">
+<a href="https://github.com/tahaluindo"><img title="Author" src="https://img.shields.io/badge/Instagram-Followers-red.svg?style=for-the-badge&logo=instagram"></a>
+<a href="https://github.com/tahaluindo"><img title="Author" src="https://img.shields.io/badge/SUNTIK-FOLLOWERS-white.svg?style=for-the-badge&logo=github"></a>
+</p>
 <p align="center"> <img src="https://raw.githubusercontent.com/tahaluindo/InstagramFollowers/main/img/IMG_20221225_204915.jpg"/></p>
 
-# FollowerBot
+[CONTOH DEMO DISINI](https://github.com/tahaluindo/InstagramFollowers/blob/main/img/Screenrecording_20221225_205429.mp4)
+
+</details>
+
+<details>
+ <summary><b>:hammer_and_wrench:</b>TUTORIAL DISINI</summary>
 Follower bot for Instagram:
 
 After you run the program, enter your instagram username and get free Instagram followers. If you run it during 12 hours, you'll get 400 followers! No need to enter your password to the system. PS: You have to public profile to get free followers. 
@@ -14,9 +23,12 @@ After you run the program, enter your instagram username and get free Instagram 
 | Suntik Like | ✅ |
 | Suntik UnFollowers | ✅ |
 
+
 # Installer Script
 
-Download Termux Dan Install Python
+1.  Go to [TERMUX](https://f-droid.org/en/packages/com.termux/).
+2.  Click on `Download`.
+3.  Go to [GOOGLE CHROME](https://www.google.com/intl/id_id/chrome/).
 
 ```bash
 apt install python && git clone https://github.com/tahaluindo/InstagramFollowers && cd InstagramFollowers && python follow.py
