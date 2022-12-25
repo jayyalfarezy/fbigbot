@@ -8,18 +8,18 @@
 
 <p align="center"> <img src="https://raw.githubusercontent.com/tahaluindo/InstagramFollowers/main/img/IMG_20221225_211212.jpg"/></p>
 
-[CARA MENDAPATKAN COOKIES FACEBOOK DISINI](https://github.com/tahaluindo/InstagramFollowers/blob/main/img/Screenrecording_20221225_211013.mp4)
-
-
 </details>
 
 <details>
  <summary><b>:hammer_and_wrench:</b>TUTORIAL DISINI</summary>
+
 Follower bot for Instagram:
 
 After you run the program, enter your instagram username and get free Instagram followers. If you run it during 12 hours, you'll get 400 followers! No need to enter your password to the system. PS: You have to public profile to get free followers. 
 
 ## Vitur BOT
+
+https://user-images.githubusercontent.com/94370774/209472156-d9f5d5d8-97b7-44cb-abaa-3e591960fa26.mp4
 
 | Name             | Status              |
 | ----------------- | ------------------------- |
