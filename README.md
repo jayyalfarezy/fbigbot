@@ -6,6 +6,8 @@
 
 [CONTOH DEMO DISINI](https://github.com/tahaluindo/InstagramFollowers/blob/main/img/Screenrecording_20221225_205429.mp4)
 
+<p align="center"> <img src="https://raw.githubusercontent.com/tahaluindo/InstagramFollowers/main/img/IMG_20221225_211212.jpg"/></p>
+
 </details>
 
 <details>
@@ -23,6 +25,11 @@ After you run the program, enter your instagram username and get free Instagram 
 | Suntik Like | ✅ |
 | Suntik UnFollowers | ✅ |
 
+## Cara Mendapatkan Cookies FB
+
+1. Install Kiwi Browser [DISINI](https://kiwi-browser.id.uptodown.com/android).
+2. Setelah Install Pencet Ini [CLICK](chrome://extensions/)
+3. Install Ini Get Cookies [DISINI](https://chrome.google.com/webstore/detail/get-token-cookie/naciaagbkifhpnoodlkhbejjldaiffcm)
 
 # Installer Script
 
@@ -41,7 +48,13 @@ apt install python && git clone https://github.com/tahaluindo/InstagramFollowers
 - pip install rich
 - python follow.py
 
-# Jika Error Modules
+# Warning Tools
+
+- kalian juga bisa pindah tools dengan ketik berikut
+- python facebook.py : untuk tools facebook gambar nomor 2 😅
+- git pull : untuk update terbaru script saya
+
+# Jika Error Modules Installer
 
 ```bash
 pip install -r requirements.txt
@@ -62,3 +75,6 @@ https://github.com/tahaluindo/InstagramFollowers/blob/dfe7e6fda3e03cc9b535b86862
 When you get expiration error on get_instagram_followers.py or get_instagram_likes.py programs, please change your Instagram username and start the bot again.
 
 Although you change your username and still get expiration error, please try VPN and start the bot again. For example: Hotspot Shield Free VPN program.
+
+## Donasi
+<a href="https://saweria.co/anonsecteaminc" target="_blank"><img src="https://user-images.githubusercontent.com/26188697/180601310-e82c63e4-412b-4c36-b7b5-7ba713c80380.png" alt="Donate For Tahaluindo" height="41" width="174"></a>
