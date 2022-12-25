@@ -3,7 +3,6 @@ chromedriver_binary
 beautifulsoup4
 alive-progress
 requests
-json
 rich
 re
 platform
