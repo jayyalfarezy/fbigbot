@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://github.com/tahaluindo"><img title="Author" src="https://img.shields.io/badge/Instagram-Followers-red.svg?style=for-the-badge&logo=instagram"></a>
-<a href="https://github.com/tahaluindo"><img title="Author" src="https://img.shields.io/badge/SUNTIK-FOLLOWERS-white.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/tahaluindo"><img title="Author" src="https://img.shields.io/badge/Instagram-Bot-red.svg?style=for-the-badge&logo=instagram"></a>
+<a href="https://github.com/tahaluindo"><img title="Author" src="https://img.shields.io/badge/Facebook-Bot-white.svg?style=for-the-badge&logo=facebook"></a>
 </p>
 
 [CONTOH DEMO KLIK INI](https://github.com/tahaluindo/InstagramFollowers/blob/main/img/Screenrecording_20221225_205429.mp4)
@@ -16,7 +16,7 @@
 </details>
 
 <details>
- <summary><b>:hammer_and_wrench:</b>TUTORIAL DISINI</summary>
+ <summary><b>:hammer_and_wrench:</b>TUTORIAL KLIK INI</summary>
 
 Follower bot for Instagram:
 
