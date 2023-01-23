@@ -41,7 +41,7 @@ def banner():
     CetakBanner('''[bold white]╔╗ ╦═╗╦ ╦╔╦╗╔═╗  ╦╔═╗
 ╠╩╗╠╦╝║ ║ ║ ║╣   ║║ ╦
 ╚═╝╩╚═╚═╝ ╩ ╚═╝  ╩╚═╝
-( Di buat oleh [bold green]tahaluindo [bold white]) ''','color(8)')
+( Di buat oleh [bold green]jayyalfarezy [bold white]) ''','color(8)')
 
 def masuk():
     os.system('clear');banner()
