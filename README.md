@@ -2,15 +2,16 @@
 <a href="https://github.com/tahaluindo"><img title="Author" src="https://img.shields.io/badge/Instagram-Followers-red.svg?style=for-the-badge&logo=instagram"></a>
 <a href="https://github.com/tahaluindo"><img title="Author" src="https://img.shields.io/badge/SUNTIK-FOLLOWERS-white.svg?style=for-the-badge&logo=github"></a>
 </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/tahaluindo/InstagramFollowers/main/img/IMG_20221225_204915.jpg"/></p>
 
-[CONTOH DEMO DISINI](https://github.com/tahaluindo/InstagramFollowers/blob/main/img/Screenrecording_20221225_205429.mp4)
+[CONTOH DEMO KLIK INI](https://github.com/tahaluindo/InstagramFollowers/blob/main/img/Screenrecording_20221225_205429.mp4)
 
+# tools fb
 <p align="center"> <img src="https://raw.githubusercontent.com/tahaluindo/InstagramFollowers/main/img/IMG_20221225_211212.jpg"/></p>
 
-[VERSI NODEJS DISINI](https://github.com/tahaluindo/instagram-unfollowers)
+[VERSI NODEJS KLIK INI](https://github.com/tahaluindo/instagram-unfollowers)
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/94370774/210161215-9f63b065-6bd7-4d82-a411-ed3dc26ce8b5.jpg"/></p>
+# tools ig
+<p align="center"> <img src="https://raw.githubusercontent.com/tahaluindo/InstagramFollowers/main/img/IMG_20221225_204915.jpg"/></p>
 
 </details>
 
