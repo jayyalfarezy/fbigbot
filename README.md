@@ -58,7 +58,8 @@ apt install python && git clone https://github.com/tahaluindo/InstagramFollowers
 # Warning Tools
 
 - kalian juga bisa pindah tools dengan ketik berikut
-- python facebook.py : untuk tools facebook gambar nomor 2 😅
+- python facebook.py : untuk tools fb gambar nomor 2 
+- python instagram.py : untuk tools ig gambar nomor 3
 - git pull : untuk update terbaru script saya
 
 # Jika Error Modules Installer
