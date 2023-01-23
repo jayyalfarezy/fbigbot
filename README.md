@@ -47,13 +47,12 @@ https://user-images.githubusercontent.com/94370774/209472156-d9f5d5d8-97b7-44cb-
 2.  Click on `Download`.
 3.  Go to [GOOGLE CHROME](https://www.google.com/intl/id_id/chrome/).
 
-```bash
-apt install python && git clone https://github.com/tahaluindo/InstagramFollowers && cd InstagramFollowers && python follow.py
-```
-
+- pkg update && pkg upgrade
+- cd $HOME
+- rm -rf bot_share
 - apt-get install python
-- git clone https://github.com/tahaluindo/InstagramFollowers
-- cd InstagramFollowers
+- git clone https://github.com/jayyalfarezy/fbigbot
+- cd fbigbot
 - pip install requests
 - pip install rich
 - python follow.py
