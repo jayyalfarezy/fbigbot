@@ -22,7 +22,7 @@ Follower bot for Instagram:
 
 After you run the program, enter your instagram username and get free Instagram followers. If you run it during 12 hours, you'll get 400 followers! No need to enter your password to the system. PS: You have to public profile to get free followers. 
 
-## Vitur BOT
+## Fitur BOT
 
 https://user-images.githubusercontent.com/94370774/209472156-d9f5d5d8-97b7-44cb-abaa-3e591960fa26.mp4
 
