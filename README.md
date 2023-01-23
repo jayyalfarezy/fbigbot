@@ -1,4 +1,6 @@
 <p align="center">
+<a href="https://github.com/tahaluindo"><img title="Author" src="https://img.shields.io/badge/AUTHOR-TAHALUINDO-orange.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/jayyalfarezy"><img title="Author" src="https://img.shields.io/badge/RECODE BY-JAYYY-orange.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/tahaluindo"><img title="Author" src="https://img.shields.io/badge/Instagram-Bot-red.svg?style=for-the-badge&logo=instagram"></a>
 <a href="https://github.com/tahaluindo"><img title="Author" src="https://img.shields.io/badge/Facebook-Bot-white.svg?style=for-the-badge&logo=facebook"></a>
 </p>
