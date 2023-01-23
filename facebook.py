@@ -22,7 +22,7 @@ def logo(LOGOLBOK):
     Cetak('''[bold white]╔═╗╦  ╦    ╔╗ ╔═╗╔╦╗╔═╗╔╗ 
 ╠═╣║  ║    ╠╩╗║ ║ ║ ╠╣ ╠╩╗
 ╩ ╩╩═╝╩═╝  ╚═╝╚═╝ ╩ ╚  ╚═╝
-[bold green]{ [bold white]tahaluindo [bold green]}''','banner','bold blue')
+[bold green]{ [bold white]jayyalfarezy [bold green]}''','banner','bold blue')
 
 class Main:
     def __init__(self):
